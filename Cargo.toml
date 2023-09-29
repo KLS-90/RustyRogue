@@ -1,5 +1,5 @@
 [package]
-name = "RustyRogue"
+name = "rusty_rogue"
 version = "0.1.0"
 edition = "2021"
 
